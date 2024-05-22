@@ -73,3 +73,4 @@ sudo ./a.out
 [Azreol UC - Xap-client]
 [duckman6969 UC - FixSkillIssue]
 [Acknowledge UC - Nika]
+[shook1 UC - CopiPasta/The Offset Updater #1g #1stGeneration] 
